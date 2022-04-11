@@ -1,0 +1,17 @@
+#aa{
+    padding:15px;
+    margin:auto;
+    font-size:18px;
+}
+h1, h2, h3,h4,h5,ul{
+    margin-top: 10px;
+    text-align: center;
+    list-style: none;
+}
+ul{
+    color:crimson;
+}
+
+#nav>a{
+    padding:30px;
+}
